@@ -1,0 +1,6 @@
+{
+  "name": "SAVII FOCUS",
+  "description": "Personal Intelligence Ecosystem for A/L and AAT study planning, focus timer, and offline-first productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
